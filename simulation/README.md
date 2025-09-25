@@ -5,6 +5,8 @@
 
 
 <video src=tunnel_simulation.mp4" width="640" height="360" controls></video>
+[![Simulacion](tunnel_simulation.png)](https://drive.google.com/file/d/1fe8S2Kbv6qLlK14r2wG3KeIBYG9UP3Ca/view?usp=share_link)
+
 ## Resumen
 
 Script de Python autocontenido que genera una simulación visual de un flujo de fluido (viento) dentro de una geometría de túnel de viento en 2D. La simulación utiliza un **método Lagrangiano basado en partículas**, donde el comportamiento colectivo de miles de partículas individuales emula las propiedades macroscópicas de un fluido.
