@@ -3,9 +3,7 @@
 
 # Simulación de Túnel de Viento Basada en Partículas
 
-
-<video src=tunnel_simulation.mp4" width="640" height="360" controls></video>
-[![Simulacion](tunnel_simulation.png)](https://drive.google.com/file/d/1fe8S2Kbv6qLlK14r2wG3KeIBYG9UP3Ca/view?usp=share_link)
+![Demo animada](tunnel_simulation.gif)
 
 ## Resumen
 
