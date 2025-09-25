@@ -1,6 +1,9 @@
 
 
-# Guía de Diseño y Especificaciones para Túnel de Viento Subsónico 
+# Diseño y Especificaciones para Túnel de Viento Subsónico 
+
+
+![Demo animada](simulation/tunnel_simulation.gif)
 
 ## 1. Resumen
 
@@ -25,6 +28,7 @@ graph LR;
     class Fan fan;
 ```
 
+### Geometria General 
 
 ![Dimensiones](dimensions.png)
 
